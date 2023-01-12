@@ -7,7 +7,7 @@ on:
   schedule:
     # 14:50 UTC each Wednesday  
     # https://crontab.guru/#02_13_*_*_*
-    - cron: "14 50 * * 3"
+    - cron: "50 14 * * 3"
   workflow_dispatch:
 
 defaults:
