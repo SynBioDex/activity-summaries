@@ -1,0 +1,18 @@
+defaults:
+  title: Dingy report for SBOL specification repos
+  items:
+    - https://github.com/SynBioDex/SbolStandardWebsite
+    - https://github.com/SynBioDex/SBOL-specification
+    - https://github.com/SynBioDex/SEPs
+    - https://github.com/SynBioDex/SBOL-visual
+    - https://github.com/SynBioDex/sbol-visual-ontology
+    - https://github.com/SynBioDex/SBOL-examples
+    - https://github.com/SynBioDex/Community-Media
+    - https://github.com/SynBioDex/SBOL-Industrial-Summer-Program
+
+digests:
+  - digest: week.html
+    since: 1 week
+
+  - digest: month.html
+    since: 1 month
